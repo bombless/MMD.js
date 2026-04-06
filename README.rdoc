@@ -26,7 +26,7 @@ Likely NOT to come
 == Build
 
 ```
-coffee --join MMD.js --compile src/MMD.coffee src/MMD.*.coffee
+npm run build
 ```
 
 == Dependence
