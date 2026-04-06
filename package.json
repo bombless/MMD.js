@@ -1,0 +1,10 @@
+{
+  "name": "mmd-js",
+  "private": true,
+  "version": "1.0.0",
+  "description": "MikuMikuDance player on WebGL",
+  "scripts": {
+    "dev": "node ./scripts/dev-server.mjs",
+    "build": "node ./scripts/build.mjs"
+  }
+}
